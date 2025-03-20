@@ -1,4 +1,8 @@
-## Hi there 👋
+## Yo👋
+
+About Me
+- Im currently preparing for my bachelors in Software Engineering.
+- Learning Python, HTML, CSS and Javascript (I know the usual)
 
 <!--
 **Davidsenec/Davidsenec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
