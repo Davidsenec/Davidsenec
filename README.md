@@ -5,7 +5,7 @@ About Me
 - Learning Python, Rust, a bunch of other stuff
 - I really fuck with culture (movies, music, etc.)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidsenec&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidsenec&layout=compact&v=2)
 
 <!--
 **Davidsenec/Davidsenec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
